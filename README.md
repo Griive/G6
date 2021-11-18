@@ -1,3 +1,3 @@
 # G6
-test repository
+test repository\n
 changes 
